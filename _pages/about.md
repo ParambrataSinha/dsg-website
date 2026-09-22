@@ -214,6 +214,10 @@ layout: splash
       </div>
       -->
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/guneesh_gupta.png" alt="Guneesh Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/guneesh_gupta">Guneesh Gupta</a></h3>
+      </div>
+      <div class="member-card">
       <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
       <h3><a href="{{ site.baseurl }}/members/harshit_agrawal">Harshit Agrawal</a></h3>
       </div>
