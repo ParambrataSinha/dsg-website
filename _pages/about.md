@@ -119,48 +119,48 @@ layout: splash
     <h2 class="year-header">4th Year (Y24)</h2>
     <div class="member-grid">
       <a href="{{ site.baseurl }}/members/abhivanshgupta" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/abhivansh.jpeg" alt="Abhivansh Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/abhivansh.jpeg" alt="Abhivansh Gupta" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Abhivansh Gupta</h3>
       </a>
       <a href="{{ site.baseurl }}/members/abhinavkumar" class="member-card">         
       <img src="{{ site.baseurl }}/assets/images/members/y24/abhinav.png" alt="Abhinav Kumar" 
-        onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Abhinav Kumar</h3>
       </a>
       <a href="{{ site.baseurl }}/members/advika" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/advika.jpeg" alt="Advika Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/advika.jpeg" alt="Advika Sinha" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Advika Sinha</h3>
       </a>
       <a href="{{ site.baseurl }}/members/amritanshu" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/amritanshu.png" alt="Amritanshu Tiwari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/amritanshu.png" alt="Amritanshu Tiwari" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Amritanshu Tiwari</h3>
       </a>
       <a href="{{ site.baseurl }}/members/atharvmittal" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/otterv.webp" alt="Atharv Mittal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/otterv.webp" alt="Atharv Mittal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Atharv Mittal</h3>
       </a>
       <a href="{{ site.baseurl }}/members/cherishpuniani" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/cp.jpeg" alt="Cherish Puniani" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/cp.jpeg" alt="Cherish Puniani" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Cherish Puniani</h3>
       </a>
       <a href="{{ site.baseurl }}/members/JheelMaheshwari" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/jheelmaheshwari.png" alt="Jheel Maheshwari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/jheelmaheshwari.png" alt="Jheel Maheshwari" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Jheel Maheshwari</h3>
       </a>
       <a href="{{ site.baseurl }}/members/kaustubhsharma" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/kaustubh.jpg" alt="Kaustubh Sharma" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/kaustubh.jpg" alt="Kaustubh Sharma" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Kaustubh Sharma</h3>
       </a>
       <a href="{{ site.baseurl }}/members/ojasvanema" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/ojasv.jpg" alt="Ojasva Nema" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/ojasv.jpg" alt="Ojasva Nema" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Ojasva Nema</h3>
       </a>
       <a href="{{ site.baseurl }}/members/SargamGoyal" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/sargam.jpg" alt="Sargam Goyal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/sargam.jpg" alt="Sargam Goyal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Sargam Goyal</h3>
       </a>
       <a href="{{ site.baseurl }}/members/Tushar" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y24/tushar.jpeg" alt="Tushar" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y24/tushar.jpeg" alt="Tushar" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Tushar</h3>
       </a>
     </div>
@@ -171,51 +171,51 @@ layout: splash
     <h2 class="year-header">3nd Year (Y25)</h2>
     <div class="member-grid">
       <a href="{{ site.baseurl }}/members/aarush" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/aarush.jpg" alt="Aarush Aggarwal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/aarush.jpg" alt="Aarush Aggarwal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Aarush Aggarwal</h3>
       </a>
       <a href="{{ site.baseurl }}/members/adityachauhan" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/adityachauhan.jpg" alt="Aditya Chauhan" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/adityachauhan.jpg" alt="Aditya Chauhan" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Aditya Chauhan</h3>
       </a>
       <a href="{{ site.baseurl }}/members/akshat" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/akshat_tomar.jpg" alt="Akshat Tomar" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/akshat_tomar.jpg" alt="Akshat Tomar" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Akshat Tomar</h3>
       </a>
       <a href="{{ site.baseurl }}/members/arnav" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/arnav.png" alt="Arnav Bendre" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/arnav.png" alt="Arnav Bendre" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Arnav Bendre</h3>
       </a>
       <a href="{{ site.baseurl }}/members/gaurav" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/gaurav.jpg" alt="Gaurav Kumar" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/gaurav.jpg" alt="Gaurav Kumar" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Gaurav Kumar</h3>
       </a>
       <a href="{{ site.baseurl }}/members/gowri" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/gowri.jpg" alt="Gowri D V" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/gowri.jpg" alt="Gowri D V" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Gowri D V</h3>
       </a>
       <a href="{{ site.baseurl }}/members/laabhanvi" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/laabhanvi.jpg" alt="Laabhanvi Jain" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/laabhanvi.jpg" alt="Laabhanvi Jain" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Laabhanvi Jain</h3>
       </a>
       <a href="{{ site.baseurl }}/members/manjot" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/manjot.jpg" alt="Manjot Singh" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/manjot.jpg" alt="Manjot Singh" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Manjot Singh</h3>
       </a>
       <a href="{{ site.baseurl }}/members/raj" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/raj.jpg" alt="Raj Shekhar Singh" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/raj.jpg" alt="Raj Shekhar Singh" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Raj Shekhar Singh</h3>
       </a>
       <a href="{{ site.baseurl }}/members/shreyansh" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/shreyansh.jpg" alt="Shreyansh Modi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/shreyansh.jpg" alt="Shreyansh Modi" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Shreyansh Modi</h3>
       </a>
       <a href="{{ site.baseurl }}/members/soham" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/soham.png" alt="Soham Gawand" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/soham.png" alt="Soham Gawand" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Soham Gawand</h3>
       </a>
       <a href="{{ site.baseurl }}/members/srijan" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y25/srijan.jpg" alt="Srijan Tiwari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y25/srijan.jpg" alt="Srijan Tiwari" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Srijan Tiwari</h3>
       </a>
     </div>
@@ -227,47 +227,43 @@ layout: splash
     <div class="member-grid">
       <!-- Add Y26 members here. Example:
       <a href="{{ site.baseurl }}/members/examplename" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/example.jpg" alt="Member Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/example.jpg" alt="Member Name" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Member Name</h3>
       </a>
       -->
       <a href="{{ site.baseurl }}/members/harshit_agrawal" class="member-card">
-      <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-      <h3>Harshit Agrawal</h3>
+        <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Harshit Agrawal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Harshit Agrawal</h3>
+      </a>
+      <a href="{{ site.baseurl }}/members/kavish" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/kavish_grover.jpeg" alt="Kavish Grover" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Kavish Grover</h3>
       </a>
       <a href="{{ site.baseurl }}/members/parambrata" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Parambrata Sinha</h3>
       </a>
-      <a href="{{ site.baseurl }}/members/Sarthak" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" alt="Sarthak Bhatia" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-        <h3>Sarthak Bhatia</h3>
-      </a>
       <a href="{{ site.baseurl }}/members/parth_brijpuria" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/parth_brijpuria.jpeg" alt="Parth Brijpuria" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/parth_brijpuria.jpeg" alt="Parth Brijpuria" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Parth Brijpuria</h3>
       </a>
       <a href="{{ site.baseurl }}/members/kandpal" class="member-card">
-  <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-  <h3>Rishita Kandpal</h3>
-</a>
+        <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Rishita Kandpal</h3>
+      </a>
+      <a href="{{ site.baseurl }}/members/Sarthak" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" alt="Sarthak Bhatia" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3>Sarthak Bhatia</h3>
+      </a>
       <a href="{{ site.baseurl }}/members/tanush_gupta" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/tanush_gupta.jpg" alt="Tanush Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/tanush_gupta.jpg" alt="Tanush Gupta" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Tanush Gupta</h3>
       </a>
-      <a href="{{ site.baseurl }}/members/vedanshSethi" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+      <a href="{{ site.baseurl }}/members/vedansh" class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Vedansh Sethi</h3>
-      </a>
-      <a href="{{ site.baseurl }}/members/kavish" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/kavish_grover.jpeg" alt="Kavish Grover" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-        <h3>Kavish Grover</h3>
       </a>
     </div>
-    <a href="{{ site.baseurl }}/members/vedansh" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y26/VedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-        <h3>Vedansh Sethi</h3>
-      </a>
   </div>
 
 
@@ -276,55 +272,55 @@ layout: splash
     <h2 class="year-header">Alumni</h2>
     <div class="member-grid">
       <a href="{{ site.baseurl }}/members/aakashkrsingh" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/aakash.jpeg" alt="Aakash Kr Singh" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/aakash.jpeg" alt="Aakash Kr Singh" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Aakash Kumar Singh (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/aayanyadav" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/aayan.jpeg" alt="Aayan Yadav" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/aayan.jpeg" alt="Aayan Yadav" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Aayan Yadav (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/agampandey" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/Agam_PFP.png" alt="Agam Pandey" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/Agam_PFP.png" alt="Agam Pandey" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Agam Pandey (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/anantjain" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/anantjain.png" alt="Anant Jain" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/anantjain.png" alt="Anant Jain" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Anant Jain (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/anupriyakkumari" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/anupriya_image.jpg" alt="Anupriya Kumari" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/anupriya_image.jpg" alt="Anupriya Kumari" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Anupriya Kumari (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/barathchandran" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/Screenshot 2025-03-28 175712.png" alt="Barath Chandran" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/Screenshot 2025-03-28 175712.png" alt="Barath Chandran" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Barath Chandran (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/parthbadgujar" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/parth.jpg" alt="Parth Badgujar" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/parth.jpg" alt="Parth Badgujar" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Parth Badgujar (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/shoryasinghal" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/shorya.jpg" alt="Shorya Singhal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/shorya.jpg" alt="Shorya Singhal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Shorya Singhal (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/shreesinghi" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/shree.jpeg" alt="Shree Singhi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/shree.jpeg" alt="Shree Singhi" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Shree Singhi (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/sukritjindal" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/sukrit.JPG" alt="Sukrit Jindal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/sukrit.JPG" alt="Sukrit Jindal" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Sukrit Jindal (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/swadeshswain" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y23/swadesh.png" alt="Swadesh Swain" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y23/swadesh.png" alt="Swadesh Swain" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Swadesh Swain (Y23)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/aasthakhaitan" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y22/aasthakhaitan.jpeg" alt="Aastha Khaitan" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y22/aasthakhaitan.jpeg" alt="Aastha Khaitan" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Aastha Khaitan (Y22)</h3>
       </a>
       <a href="{{ site.baseurl }}/members/vedumrajkar" class="member-card">
-        <img src="{{ site.baseurl }}/assets/images/members/y22/vedumrajkar.jpeg" alt="Ved Umrajkar" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <img src="{{ site.baseurl }}/assets/images/members/y22/vedumrajkar.jpeg" alt="Ved Umrajkar" onerror="this.onerror=null;this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3>Ved Umrajkar (Y22)</h3>
       </a>
     </div>
