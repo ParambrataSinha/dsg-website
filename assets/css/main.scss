@@ -111,15 +111,17 @@ search: false
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
-  text-decoration: none;
+  text-decoration: none !important;
   display: inline-block;
   box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.4);
 }
 
 .button-link:hover {
-  background-color: #339dff;
+  background-color: #0056b3;
+  color: white !important;
+  text-decoration: none !important;
   transform: translateY(-3px);
-  box-shadow: 0 7px 14px rgba(0, 123, 255, 0.4);
+  box-shadow: 0 7px 14px rgba(0, 86, 179, 0.4);
 }
 
 
