@@ -222,6 +222,10 @@ layout: splash
       <h3><a href="{{ site.baseurl }}/members/harshit_agrawal">Harshit Agrawal</a></h3>
       </div>
       <div class="member-card">
+          <img src="{{ site.baseurl }}/assets/images/members/y26/mohid_hussain.webp" alt="Mohid Hussain" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+          <h3><a href="{{ site.baseurl }}/members/mohid_hussain">Mohid Hussain</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
       </div>
