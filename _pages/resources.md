@@ -26,6 +26,8 @@ Hello everyone. Whether you’re part of the team or just curious to learn, here
 
 [<span style="color:blue;">DL-0</span>](https://hackmd.io/@friscoid/rJEjCcz6We) : Introduction to deep learning and neural networks.
 
+[<span style="color:blue;">DL-1</span>](https://hackmd.io/@laabhanvi/Bk1XrwjPzl) : Core deep learning architectures and training.
+
 [<span style="color:blue;">DL-2</span>](https://hackmd.io/@friscoid/rkX1YXckfx) : Advanced deep learning topics.
 
 ## Assignments
