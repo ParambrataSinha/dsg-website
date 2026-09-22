@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/kaustubhsharma
+permalink: /members/kaustubhsharma/
 layout: single
 ---
 

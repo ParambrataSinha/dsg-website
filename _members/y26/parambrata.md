@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/parambrata
+permalink: /members/parambrata/
 layout: single
 ---
 

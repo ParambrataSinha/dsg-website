@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/aasthakhaitan
+permalink: /members/aasthakhaitan/
 layout: single
 ---
 # Aastha Khaitan

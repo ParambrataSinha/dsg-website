@@ -1,6 +1,6 @@
 ---
 title: "Vedansh Sethi"
-permalink: /members/vedansh
+permalink: /members/vedansh/
 layout: single
 ---
 

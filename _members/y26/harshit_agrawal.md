@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/harshit_agrawal
+permalink: /members/harshit_agrawal/
 layout: single
 ---
 

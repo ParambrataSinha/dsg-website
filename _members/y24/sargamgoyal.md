@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/SargamGoyal
+permalink: /members/SargamGoyal/
 layout: single
 ---
 

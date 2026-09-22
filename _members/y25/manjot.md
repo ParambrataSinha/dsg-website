@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/manjot
+permalink: /members/manjot/
 layout: single
 ---
 

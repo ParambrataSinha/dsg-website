@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/anupriyakkumari
+permalink: /members/anupriyakkumari/
 layout: single
 ---
 

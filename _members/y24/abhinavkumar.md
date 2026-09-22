@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/abhinavkumar
+permalink: /members/abhinavkumar/
 layout: single
 ---
 # Abhinav Kumar

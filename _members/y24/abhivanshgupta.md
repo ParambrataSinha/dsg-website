@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/abhivanshgupta
+permalink: /members/abhivanshgupta/
 layout: single
 ---
 

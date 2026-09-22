@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/raj
+permalink: /members/raj/
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/swadeshswain
+permalink: /members/swadeshswain/
 layout: single
 ---
 # Swadesh Swain

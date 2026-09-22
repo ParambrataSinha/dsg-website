@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/soham
+permalink: /members/soham/
 layout: single
 ---
 

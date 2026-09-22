@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/atharvmittal
+permalink: /members/atharvmittal/
 layout: single
 ---
 

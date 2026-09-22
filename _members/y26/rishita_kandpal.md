@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/kandpal
+permalink: /members/kandpal/
 layout: single
 ---
 

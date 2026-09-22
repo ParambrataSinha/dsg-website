@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/aarush
+permalink: /members/aarush/
 layout: single
 ---
 

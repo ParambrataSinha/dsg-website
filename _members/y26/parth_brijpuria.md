@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/parth_brijpuria
+permalink: /members/parth_brijpuria/
 layout: single
 ---
 

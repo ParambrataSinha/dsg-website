@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/gowri
+permalink: /members/gowri/
 layout: single
 ---
 

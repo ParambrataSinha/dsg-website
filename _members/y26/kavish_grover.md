@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/kavish
+permalink: /members/kavish/
 layout: single
 ---
 

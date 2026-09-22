@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/JheelMaheshwari
+permalink: /members/JheelMaheshwari/
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/tanush_gupta
+permalink: /members/tanush_gupta/
 layout: single
 ---
 

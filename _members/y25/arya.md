@@ -1,6 +1,6 @@
 <!-- EX MEMBER ---
 title: ""
-permalink: /members/arya
+permalink: /members/arya/
 layout: single
 ---
 

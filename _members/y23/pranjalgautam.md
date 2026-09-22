@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/pranjalgautam
+permalink: /members/pranjalgautam/
 layout: single
 ---
 # Pranjal Gautam

@@ -1,6 +1,6 @@
 ---
 title: "Ved Umrajkar"
-permalink: /members/vedumrajkar
+permalink: /members/vedumrajkar/
 layout: single
 ---
 
