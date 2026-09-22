@@ -214,12 +214,20 @@ layout: splash
       </div>
       -->
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/guneesh_gupta.png" alt="Guneesh Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/guneesh_gupta">Guneesh Gupta</a></h3>
+      </div>
+      <div class="member-card">
       <img src="{{ site.baseurl }}/assets/images/members/y26/harshit_agrawal.jpeg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
       <h3><a href="{{ site.baseurl }}/members/harshit_agrawal">Harshit Agrawal</a></h3>
       </div>
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
+      </div>
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/Sarthak.jpeg" alt="Sarthak Bhatia" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/Sarthak">Sarthak Bhatia</a></h3>
       </div>
       <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/parth_brijpuria.jpeg" alt="Parth Brijpuria" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
@@ -230,6 +238,10 @@ layout: splash
   <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
 </div>
       <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/tanush_gupta.jpg" alt="Tanush Gupta" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/tanush_gupta">Tanush Gupta</a></h3>
+      </div>
+      <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/vedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
         <h3><a href="{{ site.baseurl }}/members/vedanshSethi">Vedansh Sethi</a></h3>
       </div>
@@ -239,6 +251,10 @@ layout: splash
         <h3><a href="{{ site.baseurl }}/members/chayan_aggarwal">Chayan Aggarwal</a></h3>
       </div>
 
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/kavish_grover.jpeg" alt="Kavish Grover" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/kavish">Kavish Grover</a></h3>
+      </div>
     </div>
 
   </div>

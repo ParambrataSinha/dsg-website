@@ -6,41 +6,38 @@ layout: single
 
 Hello everyone. Whether you’re part of the team or just curious to learn, here is your one-stop space for all things ML and DL
 
-## Mathematical Foundation
-Before delving into Machine Learning and Deep Learning, it's crucial to solidify the mathematical foundations upon which these fields are built. Mathematics is the backbone of ML and DL algorithms, and a strong grasp of key concepts like probability, statistics, linear algebra, and optimization is essential. This section equips you with those foundational skills.
+## Resources
 
-### Resources
-[<span style="color:blue;">Prob-Stats 1</span>](https://hackmd.io/@eMS9nZq5Tk6-gP09chWyqQ/H1TZcit6a) : Begin with the basics of probability and statistics, which will help you understand data distribution, uncertainty, and decision-making processes—key elements in building ML models.
+[<span style="color:blue;">Git & Bash</span>](https://hackmd.io/@1hF6KBx_RzSqdNlwAfCfIg/HJ7Ny8XDZl) : Version control with Git and everyday shell scripting in Bash.
 
-[<span style="color:blue;">Prob-Stats 2</span>](https://hackmd.io/@ZXxKhF68QyCRN3u4US17ZQ/ryAOaL_0a) : This further explores probability and statistics, diving deeper into advanced topics that are critical in more complex ML models, such as Bayesian inference and hypothesis testing.
+[<span style="color:blue;">PS-0</span>](https://hackmd.io/@5IJBw6RCTNS9fjyOKOTwkQ/S1Y03HiDbe) : Introduction to probability and statistics.
 
-[<span style="color:blue;">Linear Algebra and Optimisation</span>](https://hackmd.io/CRuXzA0XRFy5I2Yh51dODg?view) : Linear algebra forms the foundation for many ML algorithms, particularly in deep learning where operations on high-dimensional data are frequent. Optimization is the process of improving these models, and understanding both is indispensable for tackling real-world ML problems.
+[<span style="color:blue;">PS-1</span>](https://hackmd.io/@VBkCDDuLSdC5UjoRWvYtiA/rJiSIg7dWe) : Advanced probability and statistics.
 
-### Assignments
-[<span style="color:blue;">Prob-Stats 1</span>](https://hackmd.io/Id8UgDukSImYiMI3tDKPkQ?view)
+[<span style="color:blue;">LA-0</span>](https://hackmd.io/@1hF6KBx_RzSqdNlwAfCfIg/H1wXrstt-e) : Introduction to linear algebra.
 
-[<span style="color:blue;">Prob-Stats 2</span>](https://drive.google.com/file/d/1pZ4H1ZvW_c12bXdQzIadp-s7HW9BI7OF/view?usp=drive_link)
+[<span style="color:blue;">LA-1</span>](https://hackmd.io/@1hF6KBx_RzSqdNlwAfCfIg/H1wXrstt-e) : Advanced linear algebra and optimisation.
 
-[<span style="color:blue;">Linear Algebra and Optimisation</span>](https://drive.google.com/file/d/1wYamT_XjATDna4iI9bgSFfliuf4kwZ9U/view?usp=sharing)
+[<span style="color:blue;">ML-0</span>](https://hackmd.io/@YUkJ6r5iRT26UFHW-FBOeQ/SkBLlgyoZg) : Machine learning fundamentals.
 
-## Machine Learning
-After you are over with all the math resources and assignments, with the mathematical foundations firmly in place, we urge you to move on to the core subject of our journey: Machine Learning. It’s essential to understand both the theory and application of ML algorithms to build systems that solve complex problems.
+[<span style="color:blue;">ML-1</span>](https://hackmd.io/@hp9_6wFGQ3aUMWP8JxTiRw/ByeN7pR_sWx) : Core machine learning algorithms.
 
-### Resources
-[<span style="color:blue;">ML-0</span>](https://hackmd.io/@aakashks/B1iicQnlA)
+[<span style="color:blue;">ML-2</span>](https://hackmd.io/@cerussite0/Bkm8Ny72be) : Advanced machine learning topics.
 
-[<span style="color:blue;">ML-1</span>](https://hackmd.io/@tisanant/ry5AjOxX0)
+[<span style="color:blue;">DL-0</span>](https://hackmd.io/@friscoid/rJEjCcz6We) : Introduction to deep learning and neural networks.
 
-### Assignments
-[<span style="color:blue;">ML-0</span>](https://hackmd.io/@aakashks/BJvKgy2zC)
+[<span style="color:blue;">DL-2</span>](https://hackmd.io/@friscoid/rkX1YXckfx) : Advanced deep learning topics.
 
-For ML-1, we will hold a hackathon later this year in place of the assignment. Until then, happy learning!
+## Assignments
 
-## Deep Learning
-Moving on to Deep Learning, a subset of machine learning that focuses on models known as neural networks. This section will deepen your understanding of the cutting-edge techniques driving today’s AI breakthroughs.
+[<span style="color:blue;">Git & Bash</span>](https://hackmd.io/@1hF6KBx_RzSqdNlwAfCfIg/HJ7Ny8XDZl) : Practice tasks on Git and Bash.
 
-[<span style="color:blue;">Resources</span>](https://hackmd.io/@bo1tKdKHTzWAvzZH0oC_SA/SJL_JDjQ0)
+[<span style="color:blue;">PS-0</span>](https://hackmd.io/@5IJBw6RCTNS9fjyOKOTwkQ/S19kxzGOZg) : Problems on introductory probability and statistics.
 
-[<span style="color:blue;">Assignment</span>](https://hackmd.io/@0xpegasus/ryXpSJ8E0)
+[<span style="color:blue;">PS-1</span>](https://hackmd.io/@VBkCDDuLSdC5UjoRWvYtiA/SkROiRudWg) : Problems on advanced probability and statistics.
 
-With these resources and assignments, you’re well on your journey to discovering and understanding AI/ML. This will serve as the last assignment for now, we hope you had a good experience learning from these resources and assignments!
+[<span style="color:blue;">LA</span>](https://hackmd.io/qp8fYyZgRcaD7yoEygl7xw) : Problems on linear algebra and optimisation.
+
+[<span style="color:blue;">ML</span>](https://hackmd.io/@laabhanvi/B1baM8kaZg) : Hands-on machine learning assignment.
+
+[<span style="color:blue;">DL</span>](https://hackmd.io/@friscoid/H1yTjNn-fx) : Hands-on deep learning assignment.

@@ -8,14 +8,15 @@ layout: single
 
 <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" width="200" height="200" alt="Parambrata Sinha">
 
-*Core Member, DSG IIT Roorkee*
+_Core Member, DSG IIT Roorkee_
 
 ## About Me
 
 Hello, I'm Parambrata Sinha, a second year student exploring Deep learning.
 
-## Education  
-- **B.Tech**, Chemical Engineering, IIT Roorkee (2026–2029) 
+## Education
+
+- **B.Tech**, Chemical Engineering, IIT Roorkee (2026–2029)
 
 ## Contact & Links
 

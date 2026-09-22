@@ -1,8 +1,7 @@
 name: Cleanup bad PR
 
 on:
-  pull_request_target:
-    types: [opened, reopened]
+  workflow_dispatch:
 
 permissions:
   contents: read
