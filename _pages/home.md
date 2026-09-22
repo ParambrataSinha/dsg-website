@@ -207,6 +207,15 @@ title: Home
     transform: translateY(-2px);
   }
 
+  .button-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+  }
+
   /* --- CONTACT SECTION --- */
   .contact-section {
     background-color: #f8fafc;
@@ -301,7 +310,10 @@ title: Home
   <div class="grid-container">
     {% include project-card.html %}
   </div>
-  <a href="https://dsgiitr.github.io/dsg-website/projects/" class="button-link">See Projects</a>
+  <div class="button-group">
+    <a href="https://dsgiitr.github.io/dsg-website/projects/" class="button-link">See Projects</a>
+    <a href="https://dsgiitr.github.io/dsg-website/blogs/" class="button-link">See Blogs</a>
+  </div>
 </section>
 
 <section class="preview-section">
