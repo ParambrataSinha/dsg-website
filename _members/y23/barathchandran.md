@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/barathchandran
+permalink: /members/barathchandran/
 layout: single
 ---
 # Swadesh Swain

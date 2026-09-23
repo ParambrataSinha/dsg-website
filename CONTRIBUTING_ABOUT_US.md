@@ -23,10 +23,10 @@ Welcome to DSG! This guide will help you add yourself to the About Us page. Foll
 3. **Copy the template below** and modify it with your details:
 
 ```html
-<div class="member-card">
+<a href="{{ site.baseurl }}/members/yourusername/" class="member-card">
   <img src="{{ site.baseurl }}/assets/images/members/y26/your_name.jpg" alt="Your Full Name" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
-  <h3><a href="{{ site.baseurl }}/members/yourusername">Your Full Name</a></h3>
-</div>
+  <h3>Your Full Name</h3>
+</a>
 ```
 
 4. **Important**: Keep members **alphabetically sorted by first name** within their year section
@@ -43,7 +43,7 @@ Welcome to DSG! This guide will help you add yourself to the About Us page. Foll
 ```markdown
 ---
 title: ""
-permalink: /members/yourusername
+permalink: /members/yourusername/
 layout: single
 ---
 

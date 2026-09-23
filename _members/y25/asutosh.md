@@ -1,6 +1,6 @@
 <!-- EX MEMBER ---
 title: ""
-permalink: /members/asutosh
+permalink: /members/asutosh/
 layout: single
 ---
 

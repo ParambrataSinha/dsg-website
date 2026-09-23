@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/cherishpuniani
+permalink: /members/cherishpuniani/
 layout: single
 ---
 

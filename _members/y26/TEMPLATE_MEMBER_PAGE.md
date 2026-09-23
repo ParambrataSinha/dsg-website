@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/REPLACE_WITH_USERNAME
+permalink: /members/REPLACE_WITH_USERNAME/
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/shreesinghi
+permalink: /members/shreesinghi/
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/arnav
+permalink: /members/arnav/
 layout: single
 ---
 

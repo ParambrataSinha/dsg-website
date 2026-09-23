@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/akshat
+permalink: /members/akshat/
 layout: single
 ---
 

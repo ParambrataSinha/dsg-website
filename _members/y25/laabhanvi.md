@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/laabhanvi
+permalink: /members/laabhanvi/
 layout: single
 ---
 

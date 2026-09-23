@@ -27,8 +27,15 @@ permalink: /projects/
 }
 
 .project-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+  transform: translateY(-8px) scale(1.03);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.project-card,
+.project-card:hover,
+.project-card *,
+.project-card:hover * {
+  text-decoration: none !important;
 }
 
 /* Image styling */
@@ -53,6 +60,7 @@ permalink: /projects/
   font-size: 1.4rem;
   color: #2c3e50;
   font-weight: 700;
+  text-decoration: none !important;
 }
 
 .project-card p {
@@ -70,14 +78,17 @@ permalink: /projects/
   margin-top: auto;
 }
 
-.project-links a {
+.project-links a,
+.project-links a:hover,
+.project-links a:focus,
+.project-links a:visited {
   flex: 1;
   text-align: center;
   padding: 10px 16px;
   border-radius: 8px;
   font-size: 0.95rem;
   font-weight: 600;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 0.2s ease;
 }
 
@@ -89,6 +100,7 @@ permalink: /projects/
 
 .project-links .btn-details:hover {
   background: #005ea6;
+  text-decoration: none !important;
 }
 
 /* Secondary Button (GitHub) */
@@ -99,6 +111,7 @@ permalink: /projects/
 
 .project-links .btn-github:hover {
   background: #1b1f23;
+  text-decoration: none !important;
 }
 </style>
 

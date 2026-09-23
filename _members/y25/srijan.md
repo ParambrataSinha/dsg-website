@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/srijan
+permalink: /members/srijan/
 layout: single
 ---
 

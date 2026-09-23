@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/parthbadgujar
+permalink: /members/parthbadgujar/
 layout: single
 ---
 

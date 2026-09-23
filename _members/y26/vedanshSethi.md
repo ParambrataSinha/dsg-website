@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: /members/vedanshSethi
+title: "Vedansh Sethi"
+permalink: /members/vedansh/
 layout: single
 ---
 

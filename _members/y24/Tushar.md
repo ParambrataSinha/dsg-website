@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/Tushar
+permalink: /members/Tushar/
 layout: single
 ---
 

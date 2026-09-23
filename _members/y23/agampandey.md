@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/agampandey
+permalink: /members/agampandey/
 layout: single
 ---
 

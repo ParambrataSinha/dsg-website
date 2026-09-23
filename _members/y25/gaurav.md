@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /members/gaurav
+permalink: /members/gaurav/
 layout: single
 ---
 

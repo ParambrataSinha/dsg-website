@@ -192,19 +192,62 @@ title: Home
     color: #444;
   }
 
-  .button-link {
+  .button-link,
+  .join-button {
     display: inline-block;
     padding: 0.8rem 2.2rem;
     background-color: #007bff;
-    color: white;
+    color: #ffffff !important;
     font-weight: 600;
     border-radius: 8px;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: all 0.3s ease;
+    box-shadow: none;
   }
-  .button-link:hover {
-    background-color: #0056b3;
+
+  .button-link:hover,
+  .join-button:hover {
+    background-color: #0056b3 !important;
+    color: #ffffff !important;
     transform: translateY(-2px);
+    text-decoration: none !important;
+    box-shadow: 0 4px 12px rgba(0, 86, 179, 0.3);
+  }
+
+  .button-link:focus,
+  .button-link:active,
+  .button-link:visited,
+  .join-button:focus,
+  .join-button:active,
+  .join-button:visited {
+    color: #ffffff !important;
+    text-decoration: none !important;
+  }
+
+  /* Override theme a:not(.btn):hover underline rule */
+  .layout--splash .page__content a.button-link,
+  .layout--splash .page__content a.button-link:hover,
+  .layout--splash .page__content a.join-button,
+  .layout--splash .page__content a.join-button:hover,
+  .page__content a.button-link,
+  .page__content a.button-link:hover,
+  .page__content a.join-button,
+  .page__content a.join-button:hover {
+    text-decoration: none !important;
+    color: #ffffff !important;
+  }
+
+  .join-button {
+    margin-top: 2.5rem;
+  }
+
+  .button-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    flex-wrap: wrap;
   }
 
   /* --- CONTACT SECTION --- */
@@ -301,7 +344,10 @@ title: Home
   <div class="grid-container">
     {% include project-card.html %}
   </div>
-  <a href="https://dsgiitr.github.io/dsg-website/projects/" class="button-link">See Projects</a>
+  <div class="button-group">
+    <a href="https://dsgiitr.github.io/dsg-website/projects/" class="button-link">See Projects</a>
+    <a href="https://dsgiitr.github.io/dsg-website/blogs/" class="button-link">See Blogs</a>
+  </div>
 </section>
 
 <section class="preview-section">
