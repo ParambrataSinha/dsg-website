@@ -271,8 +271,8 @@ layout: splash
         <h3>Vedansh Sethi</h3>
       </a>
     </div>
-  </div>
 
+  </div>
 
   <!-- Alumni (Y22 & Earlier) -->
   <div class="year-section">
